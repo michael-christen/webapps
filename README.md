@@ -24,3 +24,8 @@ that it's relatively easy to separate out a facet of this work if I'd like.
 - [ ] Deployable with fab command
 - HTTPS Certificate
 - DB Backup
+
+## Links
+
+- https://www.valentinog.com/blog/tutorial-api-django-rest-react/
+- https://github.com/michael-christen/life-track/pull/1/files
